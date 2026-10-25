@@ -18,6 +18,16 @@ I’m interested in clear interfaces, mobile-friendly layouts, and tools that le
 
 <br>
 
+## Project spotlight
+
+[![MNG Construction — project galleries, estimates, reviews and a mobile admin dashboard](assets/mng-project.svg)](https://mng-construction.vercel.app)
+
+A website for a Calgary company working in landscaping, siding, roofing and snow removal. The project brings together a photo portfolio, estimate requests and a Supabase-backed content workflow.
+
+**Explore:** [Live website](https://mng-construction.vercel.app)
+
+<br>
+
 ## Working with
 
 | Front end | Content & services | Shipping |
